@@ -1,7 +1,7 @@
 # PROJET S2
 
 **Overall objective :** To realize a set of functions allowing to perform exact calculations on the polynomials of Q[x]
-
+*Each file also includes function tests*
 ## bases.py
 Basic functions on polynomials
 
