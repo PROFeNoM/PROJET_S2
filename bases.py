@@ -1,6 +1,4 @@
 # coding: utf-8
-# CHOURA Alexandre
-# MATAVAR Axel
 
 from fractions import Fraction as F
 
