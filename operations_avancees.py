@@ -1,6 +1,4 @@
 # coding: utf-8
-# CHOURA Alexandre
-# MATAVAR Axel
 
 import bases as b
 import operations_elementaires as oe
